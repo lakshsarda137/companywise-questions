@@ -18,6 +18,7 @@
   --f-purple: #8a5cc9;
   --f-orange: #e07b39;
   --pix: "Pixelify Sans", "Chicago", ui-monospace, monospace;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -36,7 +37,8 @@
 html, body { margin: 0; }
 body {
   background: var(--bg); color: var(--ink);
-  font: 400 15px/1.35 var(--pix);
+  font: 400 14.5px/1.4 var(--sans);
+  font-variant-numeric: tabular-nums;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
 }
@@ -62,6 +64,7 @@ button, input { font: inherit; color: inherit; }
 .logo i { width: 8px; height: 8px; background: var(--ink); }
 .logo i:nth-child(1) { background: var(--f-red); } .logo i:nth-child(2) { background: var(--f-green); }
 .logo i:nth-child(3) { background: var(--f-blue); } .logo i:nth-child(4) { background: var(--f-yellow); }
+.brand, .menubar nav a, .titlebar .title, .thead, .crow.thead, .pop h4 { font-family: var(--pix); }
 .brand { font-weight: 600; font-size: 17px; }
 .menubar nav { display: flex; gap: 18px; }
 .menubar nav a { text-decoration: none; font-weight: 500; padding: 2px 6px; }
@@ -121,7 +124,7 @@ main { position: relative; z-index: 1; padding: 48px 24px 120px; }
 /* ---------- table ---------- */
 .thead, .row {
   display: grid; align-items: center; column-gap: 14px;
-  grid-template-columns: 22px 18px minmax(0, 2.4fr) 70px minmax(0, 1.6fr) 84px 62px 92px;
+  grid-template-columns: 22px 18px minmax(0, 2.4fr) 70px minmax(0, 1.6fr) 84px 72px 116px;
   padding: 0 16px;
 }
 .thead { height: 36px; border-bottom: 1px solid var(--ink); font-weight: 600; position: sticky; top: 40px; background: var(--win); z-index: 5; }
@@ -135,7 +138,9 @@ main { position: relative; z-index: 1; padding: 48px 24px 120px; }
 .row .name { display: flex; align-items: baseline; gap: 8px; min-width: 0; }
 .row .name a { text-decoration: none; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .row .name a:hover { text-decoration: underline; }
-.row .name .id { color: var(--muted); font-size: 12px; min-width: 34px; }
+.row .name .id { color: var(--muted); font-size: 13px; min-width: 38px; text-align: right; }
+.row .rec .b { color: var(--muted); margin-right: 8px; font-size: 13px; }
+.row .rec .pc { display: inline-block; min-width: 38px; }
 .row .new { font-size: 11px; border: 1px solid currentColor; padding: 0 4px; color: var(--f-red); line-height: 15px; }
 .row .topics { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; }
 .row.solved .name a { color: var(--muted); text-decoration: line-through; }
@@ -179,12 +184,12 @@ main { position: relative; z-index: 1; padding: 48px 24px 120px; }
 
 /* ---------- popover ---------- */
 .pop {
-  position: absolute; z-index: 50; width: 280px; max-height: 420px; display: flex; flex-direction: column;
+  position: absolute; z-index: 50; width: 300px; max-height: 460px; display: flex; flex-direction: column;
   background: var(--win); border: 1px solid var(--ink); box-shadow: 3px 3px 0 var(--ink);
 }
 .pop input[type=search] { margin: 8px; height: 28px; padding: 0 8px; border: 1px solid var(--ink); background: var(--win); outline: none; }
 .pop .opts { overflow: auto; padding: 4px 0; }
-.pop label { display: flex; align-items: center; gap: 10px; padding: 5px 12px; cursor: pointer; }
+.pop label { display: flex; align-items: center; gap: 10px; padding: 6px 12px; cursor: pointer; line-height: 1.25; }
 .pop label:hover { background: var(--hover); }
 .pop label .n { margin-left: auto; color: var(--muted); font-size: 13px; }
 .pop label input[type=radio] { appearance: none; width: 13px; height: 13px; border: 1px solid var(--ink); border-radius: 50%; margin: 0; display: grid; place-content: center; }
@@ -199,7 +204,7 @@ main { position: relative; z-index: 1; padding: 48px 24px 120px; }
 
 /* ---------- responsive ---------- */
 @media (max-width: 900px) {
-  .thead, .row { grid-template-columns: 22px 18px minmax(0, 1fr) 62px 76px 84px; }
+  .thead, .row { grid-template-columns: 22px 18px minmax(0, 1fr) 62px 76px 110px; }
   .thead .c-topics, .row .topics, .thead .c-freq, .row .freq { display: none; }
   .crow { grid-template-columns: minmax(0, 1fr) 56px 80px; }
   .crow .secs, .crow .hq { display: none; }

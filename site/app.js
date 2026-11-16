@@ -108,6 +108,12 @@
     }[k];
     if (k === "title") out.sort((a, b) => dir * P[b.i][2].localeCompare(P[a.i][2]));
     else out.sort((a, b) => dir * (key(a) - key(b)) || P[a.i][0] - P[b.i][0]);
+    // Recency percentile within the current result set: share of questions asked no more recently.
+    const byR = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    for (const o of out) byR[o.r]++;
+    const atLeast = []; let acc = 0;
+    for (let r = 9; r >= 0; r--) { acc += byR[r]; atLeast[r] = acc; }
+    for (const o of out) o.pct = out.length ? Math.round((100 * atLeast[o.r]) / out.length) : 0;
     return { rows: out, mask };
   }
 
@@ -187,8 +193,9 @@
     if (key === "sec") {
       const n = D.sectors.map(() => 0); let unc = 0;
       for (const c of C) { c[2].forEach((s) => n[s]++); if (!c[2].length) unc++; }
+      const sel = new Set(S.sec);
       const items = D.sectors.map((s, i) => ({ value: i, label: s, n: n[i], icon: folderIcon(i) }))
-        .sort((a, b) => b.n - a.n);
+        .sort((a, b) => sel.has(String(b.value)) - sel.has(String(a.value)) || a.value - b.value);
       if (unc) items.push({ value: -1, label: "Unclassified", n: unc, icon: folderIcon(-1) });
       return items;
     }
@@ -201,7 +208,8 @@
     if (key === "top") {
       const n = D.topics.map(() => 0);
       for (const p of P) p[5].forEach((t) => n[t]++);
-      return D.topics.map((t, i) => ({ value: i, label: t, n: n[i] })).sort((a, b) => b.n - a.n);
+      const sel = new Set(S.top);
+      return D.topics.map((t, i) => ({ value: i, label: t, n: n[i] })).sort((a, b) => sel.has(String(b.value)) - sel.has(String(a.value)) || b.n - a.n);
     }
     if (key === "diff") {
       const n = [0, 0, 0]; for (const p of P) if (p[3] >= 0) n[p[3]]++;
@@ -291,7 +299,7 @@
       <span class="topics" title="${esc(p[5].map((t) => D.topics[t]).join(", "))}">${esc(tops)}</span>
       <span class="num">${o.n}</span>
       <span class="num freq">${o.f ? Math.round(o.f) + "%" : "—"}</span>
-      <span class="num rec">${REC_SHORT[o.r] ?? "—"}</span>
+      <span class="num rec" title="Most recent report: ${REC_LABEL[o.r]}. ${o.pct}% of the listed questions were last asked at this time or earlier."><span class="b">${REC_SHORT[o.r] ?? "—"}</span><span class="pc">${o.pct}%</span></span>
     </div>${isOpen ? detailHTML(o.i) : ""}`;
   }
   const _ncache = {};
@@ -381,7 +389,7 @@
       if (!c[2].length) unc.cs.push(ci); else c[2].forEach((s) => groups[s].cs.push(ci));
     });
     if (unc.cs.length) groups.push(unc);
-    const vis = groups.filter((g) => g.cs.length).sort((a, b) => b.cs.length - a.cs.length);
+    const vis = groups.filter((g) => g.cs.length);
     const shownCos = new Set(vis.flatMap((g) => g.cs));
     $("#ccount").textContent = `${vis.length} sectors · ${shownCos.size} companies`;
     $("#crows").innerHTML = vis.map((g) => {
@@ -420,7 +428,7 @@
       <p><a href="${s.codejeet.url}" target="_blank" rel="noopener">ayush-that/codejeet</a>, commit <code>${esc(s.codejeet.sha || "?")}</code> (${esc(s.codejeet.date || "?")})<br>
       <a href="${s.sneh.url}" target="_blank" rel="noopener">snehasishroy/leetcode-companywise-interview-questions</a>, commit <code>${esc(s.sneh.sha || "?")}</code> (${esc(s.sneh.date || "?")})</p>
       <h3>How to read it</h3>
-      <p><b>Companies</b>: how many companies (within your filters) asked the question. <b>Avg freq</b>: LeetCode's frequency score (100% = that company's most-asked question), averaged over the matching companies. <b>Last asked</b>: the most recent bucket any of them reported it in (30 days, 3 months, 6 months, or older).</p>
+      <p><b>Companies</b>: how many companies (within your filters) asked the question. <b>Avg freq</b>: LeetCode's frequency score (100% = that company's most-asked question), averaged over the matching companies. <b>Last asked</b>: the most recent bucket any of them reported it in (30 days, 3 months, 6 months, or older), followed by a recency percentile over the questions currently listed. 100% means the most recent bucket present. A question at 64% was last asked at the same time as, or earlier than, 64% of the list. Sort by this column to see the freshest first.</p>
       <p><b>New</b>: a company and question pair that showed up in the repos after ${esc(D.trackingSince)}, when tracking started. Neither repo records when a question was added, so this compares each day's data against the day before.</p>
       <p><b>Sectors</b> were assigned per company by Claude Sonnet, which used web search to check uncertain cases. A company can be in more than one sector. A <span class="low">?</span> marks a low-confidence classification.</p>
       <p>Your solved checkmarks are stored only in this browser.</p>
@@ -473,6 +481,7 @@
     document.documentElement.dataset.theme = next; store.set("cwq.theme", next);
   });
   ascii(); let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(ascii, 200); });
+  addEventListener("hashchange", () => { if (D) { readHash(); showView(); } });
   load().then(() => { readHash(); showView(); }).catch((err) => {
     $("#count").textContent = "Couldn't load data/questions.json: " + err.message;
   });
