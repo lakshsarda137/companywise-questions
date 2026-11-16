@@ -1,0 +1,64 @@
+name: Daily refresh
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # once a day, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", "data/companies.json", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull both upstream repos and rebuild data
+        run: python3 scripts/build.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data site/data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh $(date -u +%F)"
+            git push
+          fi
+
+      - name: Report companies that still need a sector
+        run: |
+          if [ -f data/unclassified.txt ]; then
+            echo "::warning::$(wc -l < data/unclassified.txt) new companies have no sector yet. See data/unclassified.txt"
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

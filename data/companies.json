@@ -1,0 +1,5960 @@
+{
+ "1kosmos": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "1Kosmos",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "6sense": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "6sense",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech",
+   "AI / ML"
+  ]
+ },
+ "accelya": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Accelya",
+  "sectors": [
+   "Enterprise SaaS",
+   "Travel & Hospitality"
+  ]
+ },
+ "accenture": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Accenture",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "accolite": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Accolite Digital",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "acko": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Acko",
+  "sectors": [
+   "Insurance / Insurtech"
+  ]
+ },
+ "acorns": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Acorns",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "activision": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Activision",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "adobe": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Adobe",
+  "sectors": [
+   "Big Tech"
+  ]
+ },
+ "adp": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ADP",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "aetion": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Aetion",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Enterprise SaaS"
+  ]
+ },
+ "affinity": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Affinity",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "affirm": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Affirm",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "agoda": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Agoda",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "airbnb": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Airbnb",
+  "sectors": [
+   "Travel & Hospitality",
+   "Marketplaces & Gig"
+  ]
+ },
+ "airbus": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Airbus",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "airtel": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Airtel",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "airwallex": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Airwallex",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "akamai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Akamai",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "akuna-capital": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Akuna Capital",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "alibaba": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Alibaba",
+  "sectors": [
+   "E-commerce & Retail",
+   "Cloud, Infra & Dev Tools",
+   "Big Tech"
+  ]
+ },
+ "allincall": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "AllinCall",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "alphonso": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Alphonso",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "alten": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Alten",
+  "sectors": [
+   "IT Services & Consulting",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "altimetrik": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Altimetrik",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "amadeus": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Amadeus",
+  "sectors": [
+   "Travel & Hospitality",
+   "Enterprise SaaS"
+  ]
+ },
+ "amazon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Amazon",
+  "sectors": [
+   "Big Tech",
+   "E-commerce & Retail"
+  ]
+ },
+ "amd": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AMD",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "amdocs": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Amdocs",
+  "sectors": [
+   "Telecom & Networking",
+   "IT Services & Consulting"
+  ]
+ },
+ "american-airlines": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "American Airlines",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "american-express": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "American Express",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "amplitude": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Amplitude",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "analytics-quotient": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Analytics Quotient",
+  "sectors": [
+   "IT Services & Consulting",
+   "Adtech & Martech"
+  ]
+ },
+ "andela": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Andela",
+  "sectors": [
+   "IT Services & Consulting",
+   "Marketplaces & Gig"
+  ]
+ },
+ "anduril": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Anduril",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "anthropic": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Anthropic",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "anyscale": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Anyscale",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "AI / ML"
+  ]
+ },
+ "aon": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Aon",
+  "sectors": [
+   "Insurance / Insurtech",
+   "IT Services & Consulting"
+  ]
+ },
+ "apollo-io": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Apollo.io",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech"
+  ]
+ },
+ "appdynamics": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AppDynamics",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "appfolio": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AppFolio",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "apple": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Apple",
+  "sectors": [
+   "Big Tech"
+  ]
+ },
+ "applied-intuition": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Applied Intuition",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "applovin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AppLovin",
+  "sectors": [
+   "Adtech & Martech",
+   "Gaming"
+  ]
+ },
+ "aqr-capital-management": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AQR Capital Management",
+  "sectors": [
+   "Quant / HFT / Trading",
+   "Banking & Investment"
+  ]
+ },
+ "arcesium": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Arcesium",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "argo-ai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Argo AI",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "arista-networks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Arista Networks",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "asana": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Asana",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "ascend": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Ascend",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "athenahealth": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "athenahealth",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Enterprise SaaS"
+  ]
+ },
+ "atlassian": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Atlassian",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "att": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "AT&T",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "attentive": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Attentive",
+  "sectors": [
+   "Adtech & Martech",
+   "Enterprise SaaS"
+  ]
+ },
+ "audible": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Audible",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "auriga": {
+  "confidence": "low",
+  "hq": "India",
+  "name": "Auriga",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "aurora": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Aurora",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "autodesk": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Autodesk",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "avalara": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Avalara",
+  "sectors": [
+   "Enterprise SaaS",
+   "Fintech & Payments"
+  ]
+ },
+ "avito": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Avito",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "axis-bank": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Axis Bank",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "axon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Axon",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "baidu": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Baidu",
+  "sectors": [
+   "Big Tech",
+   "AI / ML"
+  ]
+ },
+ "bank-of-america": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bank of America",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "barclays": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Barclays",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "bcg": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "BCG",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "bending-spoons": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Bending Spoons",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "bentley-systems": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bentley Systems",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "bharatpe": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "BharatPe",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "bill-com": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bill.com",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "bitgo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "BitGo",
+  "sectors": [
+   "Crypto / Web3"
+  ]
+ },
+ "blackbuck": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "BlackBuck",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "blackrock": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "BlackRock",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "blackstone": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Blackstone",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "blend": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Blend",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "blinkit": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Blinkit",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "blizzard": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Blizzard Entertainment",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "block": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Block",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "bloomberg": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bloomberg",
+  "sectors": [
+   "Banking & Investment",
+   "Enterprise SaaS"
+  ]
+ },
+ "bloomreach": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bloomreach",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech"
+  ]
+ },
+ "blue-origin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Blue Origin",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "bnp-paribas": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "BNP Paribas",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "bny-mellon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "BNY Mellon",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "boeing": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Boeing",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "bolt": {
+  "confidence": "low",
+  "hq": "Europe",
+  "name": "Bolt",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Marketplaces & Gig"
+  ]
+ },
+ "booking-com": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Booking.com",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "bosch": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Bosch",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "box": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Box",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "bp": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "BP",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "braze": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Braze",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech"
+  ]
+ },
+ "brex": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Brex",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "bridgewater-associates": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Bridgewater Associates",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "brillio": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Brillio",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "broadcom": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Broadcom",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Telecom & Networking"
+  ]
+ },
+ "browserstack": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "BrowserStack",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "bt-group": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "BT Group",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "buyhatke": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "BuyHatke",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "bytedance": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "ByteDance",
+  "sectors": [
+   "Social, Media & Streaming",
+   "AI / ML",
+   "Big Tech"
+  ]
+ },
+ "c3-ai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "C3.ai",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "cadence": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cadence Design Systems",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "canonical": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Canonical",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "canva": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Canva",
+  "sectors": [
+   "Enterprise SaaS",
+   "Social, Media & Streaming"
+  ]
+ },
+ "capgemini": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Capgemini",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "capital-one": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Capital One",
+  "sectors": [
+   "Banking & Investment",
+   "Fintech & Payments"
+  ]
+ },
+ "careem": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Careem",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Mobility & Autonomous"
+  ]
+ },
+ "cars24": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Cars24",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "carwale": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "CarWale",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "cashfree": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Cashfree Payments",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "caterpillar": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Caterpillar",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "cedcoss": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Cedcoss Technologies",
+  "sectors": [
+   "E-commerce & Retail",
+   "IT Services & Consulting"
+  ]
+ },
+ "celigo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Celigo",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "cerner": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cerner",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "chalo": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Chalo",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Fintech & Payments"
+  ]
+ },
+ "chargebee": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Chargebee",
+  "sectors": [
+   "Enterprise SaaS",
+   "Fintech & Payments"
+  ]
+ },
+ "checkpoint": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Check Point Software",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "chewy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Chewy",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "chime": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Chime",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "chubb": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Chubb",
+  "sectors": [
+   "Insurance / Insurtech"
+  ]
+ },
+ "ciena": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Ciena",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "circle": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Circle",
+  "sectors": [
+   "Crypto / Web3",
+   "Fintech & Payments"
+  ]
+ },
+ "cisco": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cisco",
+  "sectors": [
+   "Telecom & Networking",
+   "Cybersecurity"
+  ]
+ },
+ "citadel": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Citadel",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "citi": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Citi",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "citigroup": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Citigroup",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "citrix": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Citrix",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "clari": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Clari",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "cleartrip": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Cleartrip",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "clevertap": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "CleverTap",
+  "sectors": [
+   "Adtech & Martech",
+   "Enterprise SaaS"
+  ]
+ },
+ "cloudera": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cloudera",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "cloudflare": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cloudflare",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "clutter": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Clutter",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Marketplaces & Gig"
+  ]
+ },
+ "cme-group": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "CME Group",
+  "sectors": [
+   "Banking & Investment",
+   "Quant / HFT / Trading"
+  ]
+ },
+ "cockroach-labs": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cockroach Labs",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "code-studio": {
+  "confidence": "low",
+  "hq": "India",
+  "name": "Code Studio (Coding Ninjas)",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "coditas": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Coditas",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "coforge": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Coforge",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "cognizant": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cognizant",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "cohesity": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cohesity",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "coinbase": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Coinbase",
+  "sectors": [
+   "Crypto / Web3",
+   "Fintech & Payments"
+  ]
+ },
+ "coindcx": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "CoinDCX",
+  "sectors": [
+   "Crypto / Web3"
+  ]
+ },
+ "coinswitch-kuber": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "CoinSwitch",
+  "sectors": [
+   "Crypto / Web3"
+  ]
+ },
+ "comcast": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Comcast",
+  "sectors": [
+   "Telecom & Networking",
+   "Social, Media & Streaming"
+  ]
+ },
+ "commvault": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Commvault",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "compass": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Compass",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "confluent": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Confluent",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "consultadd": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "ConsultAdd",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "couchbase": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Couchbase",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "coupa": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Coupa Software",
+  "sectors": [
+   "Enterprise SaaS",
+   "Fintech & Payments"
+  ]
+ },
+ "coupang": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Coupang",
+  "sectors": [
+   "E-commerce & Retail",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "coursera": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Coursera",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "coveo": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Coveo",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "cred": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "CRED",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "credit-karma": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Credit Karma",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "criteo": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Criteo",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "crowdstrike": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "CrowdStrike",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "cruise": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cruise",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "cruise-automation": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cruise Automation",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "ctc": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "CTC",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "curefit": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Cure.fit",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "cvent": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Cvent",
+  "sectors": [
+   "Enterprise SaaS",
+   "Travel & Hospitality"
+  ]
+ },
+ "cyntexa": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Cyntexa",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "cyware": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Cyware",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "dailyhunt": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Dailyhunt",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "darwinbox": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Darwinbox",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "dassault-sysetmes": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Dassault Systemes",
+  "sectors": [
+   "Enterprise SaaS",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "dataart": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "DataArt",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "databricks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Databricks",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "AI / ML"
+  ]
+ },
+ "datadog": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Datadog",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "dataminr": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Dataminr",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "de-shaw": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "D. E. Shaw",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "deepmind": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Google DeepMind",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "delhivery": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Delhivery",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "deliveroo": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Deliveroo",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "dell": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Dell Technologies",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "deloitte": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Deloitte",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "deltax": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "DeltaX",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "deutsche-bank": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Deutsche Bank",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "devrev": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DevRev",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "devsinc": {
+  "confidence": "verified",
+  "hq": "Other",
+  "name": "Devsinc",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "devtron": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Devtron",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "dialpad": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Dialpad",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "didi": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "DiDi",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Marketplaces & Gig"
+  ]
+ },
+ "directi": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Directi",
+  "sectors": [
+   "Adtech & Martech",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "discord": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Discord",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "discovery": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Discovery",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "disney": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Disney",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "dji": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "DJI",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "docusign": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DocuSign",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "doordash": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DoorDash",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "dp-world": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "DP World",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "drawbridge": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Drawbridge",
+  "sectors": [
+   "Cybersecurity",
+   "Fintech & Payments"
+  ]
+ },
+ "dream11": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Dream11",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "dropbox": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Dropbox",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "druva": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Druva",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "drw": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DRW",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "dtcc": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DTCC",
+  "sectors": [
+   "Banking & Investment",
+   "Fintech & Payments"
+  ]
+ },
+ "dunzo": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Dunzo",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "E-commerce & Retail"
+  ]
+ },
+ "duolingo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Duolingo",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "dxc-technology": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "DXC Technology",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "earnin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "EarnIn",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "ebay": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "eBay",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "edelweiss": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Edelweiss",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "electronic-arts": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Electronic Arts",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "elitmus": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "eLitmus",
+  "sectors": [
+   "Edtech",
+   "IT Services & Consulting"
+  ]
+ },
+ "envoy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Envoy",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "epam-systems": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "EPAM Systems",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "epic-games": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Epic Games",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "epic-systems": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Epic Systems",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Enterprise SaaS"
+  ]
+ },
+ "epifi": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Fi (Epifi)",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "equinix": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Equinix",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Telecom & Networking"
+  ]
+ },
+ "ericsson": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Ericsson",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "etsy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Etsy",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "exl": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "EXL",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "expedia": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Expedia",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "ey": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "EY",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "f5-networks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "F5 Networks",
+  "sectors": [
+   "Telecom & Networking",
+   "Cybersecurity"
+  ]
+ },
+ "factset": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "FactSet",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "factwise": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "FactWise",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "faire": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Faire",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "fallible": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Fallible",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "fanatics": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Fanatics",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "fast": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Fast",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "fastenal": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Fastenal",
+  "sectors": [
+   "E-commerce & Retail",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "fico": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "FICO",
+  "sectors": [
+   "Fintech & Payments",
+   "AI / ML"
+  ]
+ },
+ "fidelity": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Fidelity Investments",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "fidessa": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Fidessa",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "figma": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Figma",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "fiverr": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Fiverr",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "fivetran": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Fivetran",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "flatiron-health": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Flatiron Health",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "fleetx": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "FleetX",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "flexera": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Flexera",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "flexport": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Flexport",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "flipkart": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Flipkart",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "ford": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Ford",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "fortinet": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Fortinet",
+  "sectors": [
+   "Cybersecurity",
+   "Telecom & Networking"
+  ]
+ },
+ "forusall": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "ForUsAll",
+  "sectors": [
+   "Fintech & Payments",
+   "Crypto / Web3"
+  ]
+ },
+ "fourkites": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "FourKites",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "fpt": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "FPT",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "fractal-analytics": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Fractal Analytics",
+  "sectors": [
+   "AI / ML",
+   "IT Services & Consulting"
+  ]
+ },
+ "freecharge": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Freecharge",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "freshworks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Freshworks",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "fynd": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Fynd",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "gainsight": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Gainsight",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "gameskraft": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Gameskraft",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "garena": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Garena",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "garmin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Garmin",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "gartner": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Gartner",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "ge-digital": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GE Digital",
+  "sectors": [
+   "Enterprise SaaS",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "ge-healthcare": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GE HealthCare",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "geico": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GEICO",
+  "sectors": [
+   "Insurance / Insurtech"
+  ]
+ },
+ "general-electric": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "General Electric",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "general-motors": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "General Motors",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "genpact": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Genpact",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "gep": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GEP",
+  "sectors": [
+   "Enterprise SaaS",
+   "IT Services & Consulting"
+  ]
+ },
+ "gilt-groupe": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Gilt Groupe",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "git": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Git",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "github": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GitHub",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "glassdoor": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Glassdoor",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Social, Media & Streaming"
+  ]
+ },
+ "glean": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Glean",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "globallogic": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GlobalLogic",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "globant": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Globant",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "glovo": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Glovo",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "godaddy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GoDaddy",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "gojek": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Gojek",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Fintech & Payments"
+  ]
+ },
+ "goldman-sachs": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Goldman Sachs",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "google": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Google",
+  "sectors": [
+   "Big Tech"
+  ]
+ },
+ "gopuff": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Gopuff",
+  "sectors": [
+   "E-commerce & Retail",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "goto": {
+  "confidence": "low",
+  "hq": "APAC",
+  "name": "GoTo",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Fintech & Payments"
+  ]
+ },
+ "grab": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Grab",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Fintech & Payments",
+   "Mobility & Autonomous"
+  ]
+ },
+ "grammarly": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Grammarly",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "graviton": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Graviton Research Capital",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "groupon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Groupon",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "groww": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Groww",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "grubhub": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Grubhub",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "gsa-capital": {
+  "confidence": "verified",
+  "hq": "Europe",
+  "name": "GSA Capital",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "gsn-games": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "GSN Games",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "guidewire": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Guidewire",
+  "sectors": [
+   "Insurance / Insurtech",
+   "Enterprise SaaS"
+  ]
+ },
+ "gusto": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Gusto",
+  "sectors": [
+   "Enterprise SaaS",
+   "Fintech & Payments"
+  ]
+ },
+ "harness": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Harness",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "hashedin": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "HashedIn Technologies",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "hbo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "HBO",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "hcl": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "HCLTech",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "helix": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Helix",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "hertz": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Hertz",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Travel & Hospitality"
+  ]
+ },
+ "hexaware": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Hexaware Technologies",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "highspot": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Highspot",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "hilabs": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "HiLabs",
+  "sectors": [
+   "Healthcare & Biotech",
+   "AI / ML"
+  ]
+ },
+ "hive": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Hive",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "hiver": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Hiver",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "honey": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Honey",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "honeywell": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Honeywell",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "hopper": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Hopper",
+  "sectors": [
+   "Travel & Hospitality",
+   "Fintech & Payments"
+  ]
+ },
+ "hotstar": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Hotstar",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "houzz": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Houzz",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "hp": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "HP",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "hpe": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Hewlett Packard Enterprise",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Telecom & Networking"
+  ]
+ },
+ "hsbc": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "HSBC",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "htc": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "HTC",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "huawei": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Huawei",
+  "sectors": [
+   "Telecom & Networking",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "hubspot": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "HubSpot",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "hudson-river-trading": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Hudson River Trading",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "hulu": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Hulu",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "ibm": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "IBM",
+  "sectors": [
+   "Big Tech",
+   "IT Services & Consulting"
+  ]
+ },
+ "iit-bombay": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "IIT Bombay",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "imc": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "IMC Trading",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "impact-analytics": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Impact Analytics",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "impetus": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Impetus Technologies",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "increff": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Increff",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "indeed": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Indeed",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "indmoney": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "INDmoney",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "info-edge": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Info Edge",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "informatica": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Informatica",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "infosys": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Infosys",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "inmobi": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "InMobi",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "innovaccer": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Innovaccer",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Enterprise SaaS"
+  ]
+ },
+ "instabase": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Instabase",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "instacart": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Instacart",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "intel": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Intel",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "interactive-brokers": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Interactive Brokers",
+  "sectors": [
+   "Banking & Investment",
+   "Fintech & Payments"
+  ]
+ },
+ "intercom": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Intercom",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "intuit": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Intuit",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "ivp": {
+  "confidence": "low",
+  "hq": "Other",
+  "name": "IVP",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "ixigo": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "ixigo",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "ixl": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "IXL Learning",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "j-p-morgan": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "J.P. Morgan",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "jane-street": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Jane Street",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "jd": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "JD.com",
+  "sectors": [
+   "E-commerce & Retail",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "jeavio": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Jeavio",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "jetbrains": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "JetBrains",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "jingchi": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "JingChi",
+  "sectors": [
+   "Mobility & Autonomous",
+   "AI / ML"
+  ]
+ },
+ "jio": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Jio",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "josh-technology": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Josh Technology Group",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "jpmorgan": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "JPMorgan Chase",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "jump-trading": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Jump Trading",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "junglee-games": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Junglee Games",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "juniper-networks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Juniper Networks",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "juspay": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Juspay",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "justworks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Justworks",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "kakao": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Kakao",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "karat": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Karat",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "kickdrum": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Kickdrum",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "kla": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "KLA",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "kla-tencor": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "KLA-Tencor",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "komprise": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Komprise",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "kotak-mahindra-bank": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Kotak Mahindra Bank",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "kpit": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "KPIT Technologies",
+  "sectors": [
+   "IT Services & Consulting",
+   "Mobility & Autonomous"
+  ]
+ },
+ "kpmg": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "KPMG",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "lacework": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Lacework",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "larsen-toubro": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Larsen & Toubro",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "leap-motion": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Leap Motion",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "lendingkart": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Lendingkart",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "lendingkart-technologies": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Lendingkart Technologies",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "lenskart": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Lenskart",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "lg-electronics": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "LG Electronics",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "liberty-mutual": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Liberty Mutual",
+  "sectors": [
+   "Insurance / Insurtech"
+  ]
+ },
+ "licious": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Licious",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "liftoff": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Liftoff",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "lime": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Lime",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "line": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "LINE",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "linkedin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "LinkedIn",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "liveramp": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "LiveRamp",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "livspace": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Livspace",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "lowe-s": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Lowe's",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "lti": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "LTIMindtree (L&T Infotech)",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "lucid": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Lucid Software",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "luxoft": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Luxoft",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "lyft": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Lyft",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Marketplaces & Gig"
+  ]
+ },
+ "machine-zone": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Machine Zone",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "maersk": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Maersk",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "makemytrip": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "MakeMyTrip",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "mapbox": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Mapbox",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "maq-software": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "MAQ Software",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "marqeta": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Marqeta",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "mastercard": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Mastercard",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "mathworks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "MathWorks",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "mcafee": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "McAfee",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "mcdonalds": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "McDonald's",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "mckinsey": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "McKinsey & Company",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "media-net": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Media.net",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "meesho": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Meesho",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "meituan": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Meituan",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "mercari": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Mercari",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "meta": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Meta",
+  "sectors": [
+   "Big Tech",
+   "Social, Media & Streaming"
+  ]
+ },
+ "micro1": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "micro1",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "microsoft": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Microsoft",
+  "sectors": [
+   "Big Tech"
+  ]
+ },
+ "microstrategy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "MicroStrategy",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "millennium": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Millennium Management",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "mindtickle": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Mindtickle",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "mindtree": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Mindtree",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "miro": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Miro",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "mishipay": {
+  "confidence": "low",
+  "hq": "Europe",
+  "name": "MishiPay",
+  "sectors": [
+   "E-commerce & Retail",
+   "Fintech & Payments"
+  ]
+ },
+ "mitsogo": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Mitsogo (Hexnode)",
+  "sectors": [
+   "Cybersecurity",
+   "Enterprise SaaS"
+  ]
+ },
+ "mixpanel": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Mixpanel",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "mobileye": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Mobileye",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "mobisy": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Mobisy Technologies (Bizom)",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "moengage": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "MoEngage",
+  "sectors": [
+   "Adtech & Martech",
+   "Enterprise SaaS"
+  ]
+ },
+ "moloco": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Moloco",
+  "sectors": [
+   "Adtech & Martech",
+   "AI / ML"
+  ]
+ },
+ "moneylion": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "MoneyLion",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "mongodb": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "MongoDB",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "morgan-stanley": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Morgan Stanley",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "motive": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Motive",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Enterprise SaaS"
+  ]
+ },
+ "mountblue": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Mountblue Technologies",
+  "sectors": [
+   "IT Services & Consulting",
+   "Edtech"
+  ]
+ },
+ "moveworks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Moveworks",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "mphasis": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Mphasis",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "msci": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "MSCI",
+  "sectors": [
+   "Banking & Investment",
+   "Enterprise SaaS"
+  ]
+ },
+ "murex": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Murex",
+  "sectors": [
+   "Banking & Investment",
+   "Enterprise SaaS"
+  ]
+ },
+ "mykaarma": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "myKaarma",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "myntra": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Myntra",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "nagarro": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Nagarro",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "nasdaq": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nasdaq",
+  "sectors": [
+   "Banking & Investment",
+   "Fintech & Payments"
+  ]
+ },
+ "national-instruments": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "National Instruments",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "national-payments-coorperation-india": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "National Payments Corporation of India",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "natwest": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "NatWest Group",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "navan": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Navan",
+  "sectors": [
+   "Travel & Hospitality",
+   "Fintech & Payments"
+  ]
+ },
+ "naver": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Naver",
+  "sectors": [
+   "Social, Media & Streaming",
+   "AI / ML"
+  ]
+ },
+ "navi": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Navi",
+  "sectors": [
+   "Fintech & Payments",
+   "Insurance / Insurtech"
+  ]
+ },
+ "ncr": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "NCR",
+  "sectors": [
+   "Fintech & Payments",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "nebius": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Nebius",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "AI / ML"
+  ]
+ },
+ "nerdwallet": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "NerdWallet",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "netapp": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "NetApp",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "netcracker-technology": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Netcracker Technology",
+  "sectors": [
+   "Telecom & Networking",
+   "Enterprise SaaS"
+  ]
+ },
+ "netease": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "NetEase",
+  "sectors": [
+   "Gaming",
+   "Social, Media & Streaming"
+  ]
+ },
+ "netflix": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Netflix",
+  "sectors": [
+   "Big Tech",
+   "Social, Media & Streaming"
+  ]
+ },
+ "netskope": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Netskope",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "netsuite": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "NetSuite",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "newsbreak": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "NewsBreak",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "nextdoor": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nextdoor",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "nextjump": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Next Jump",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "nference": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "nference",
+  "sectors": [
+   "Healthcare & Biotech",
+   "AI / ML"
+  ]
+ },
+ "niantic": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Niantic",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "nielsen": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nielsen",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "nike": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nike",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "ninjacart": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Ninjacart",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Marketplaces & Gig"
+  ]
+ },
+ "nokia": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Nokia",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "noon": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Noon",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "nordstrom": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nordstrom",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "notion": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Notion",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "npci": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "NPCI",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "nuro": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nuro",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "nutanix": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nutanix",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "nvidia": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Nvidia",
+  "sectors": [
+   "Big Tech",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "nykaa": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Nykaa",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "observeai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Observe.AI",
+  "sectors": [
+   "AI / ML",
+   "Enterprise SaaS"
+  ]
+ },
+ "odoo": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Odoo",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "okta": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Okta",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "okx": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "OKX",
+  "sectors": [
+   "Crypto / Web3"
+  ]
+ },
+ "ola": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Ola",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Marketplaces & Gig"
+  ]
+ },
+ "olx": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "OLX",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "openai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "OpenAI",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "opendoor": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Opendoor",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Fintech & Payments"
+  ]
+ },
+ "opentext": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "OpenText",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "oppo": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "OPPO",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "optiver": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Optiver",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "optum": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Optum",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "oracle": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Oracle",
+  "sectors": [
+   "Big Tech",
+   "Enterprise SaaS"
+  ]
+ },
+ "oscar-health": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Oscar Health",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Insurance / Insurtech"
+  ]
+ },
+ "otter-ai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Otter.ai",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "oyo": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "OYO",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "ozon": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Ozon",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "palantir": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Palantir",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "palo-alto-networks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Palo Alto Networks",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "park": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Park+",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "patreon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Patreon",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Fintech & Payments"
+  ]
+ },
+ "paycom": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Paycom",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "paypal": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "PayPal",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "paypay": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "PayPay",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "paytm": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Paytm",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "payu": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "PayU",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "peak6": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "PEAK6",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "pega": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Pegasystems",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "peloton": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Peloton",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "persistent-systems": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Persistent Systems",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "philips": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Philips",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "phonepe": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "PhonePe",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "pickrr": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Pickrr",
+  "sectors": [
+   "Logistics & Supply Chain"
+  ]
+ },
+ "pinterest": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Pinterest",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "plaid": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Plaid",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "playsimple": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "PlaySimple Games",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "pocket-gems": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Pocket Gems",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "point72": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Point72",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "polar": {
+  "confidence": "low",
+  "hq": "Other",
+  "name": "Polar",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "pony-ai": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Pony.ai",
+  "sectors": [
+   "Mobility & Autonomous",
+   "AI / ML"
+  ]
+ },
+ "pornhub": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Pornhub (Aylo)",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "porter": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Porter",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Marketplaces & Gig"
+  ]
+ },
+ "poshmark": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Poshmark",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "postman": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Postman",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "postmates": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Postmates",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "poynt": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Poynt",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "practo": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Practo",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "publicis-sapient": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Publicis Sapient",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "pubmatic": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "PubMatic",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "pure-storage": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Pure Storage",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "purplle": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Purplle",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "pwc": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "PwC",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "qburst": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "QBurst",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "qualcomm": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Qualcomm",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Telecom & Networking"
+  ]
+ },
+ "qualtrics": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Qualtrics",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "qualys": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Qualys",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "quantcast": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Quantcast",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "quantiphi": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Quantiphi",
+  "sectors": [
+   "AI / ML",
+   "IT Services & Consulting"
+  ]
+ },
+ "quince": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Quince",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "quora": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Quora",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "rackspace": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rackspace Technology",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "IT Services & Consulting"
+  ]
+ },
+ "radius": {
+  "confidence": "low",
+  "hq": "US",
+  "name": "Radius",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "rakuten": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Rakuten",
+  "sectors": [
+   "E-commerce & Retail",
+   "Fintech & Payments"
+  ]
+ },
+ "rally-health": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rally Health",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "ramp-2": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Ramp",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "razorpay": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Razorpay",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "rbc": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "RBC (Royal Bank of Canada)",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "redbus": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "redBus",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "reddit": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Reddit",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "redfin": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Redfin",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "reliance-retails": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Reliance Retail",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "remitly": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Remitly",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "remotestate": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "RemoteState",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "retailmenot": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "RetailMeNot",
+  "sectors": [
+   "Adtech & Martech",
+   "E-commerce & Retail"
+  ]
+ },
+ "revolut": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Revolut",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "riot-games": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Riot Games",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "ripple": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Ripple",
+  "sectors": [
+   "Crypto / Web3",
+   "Fintech & Payments"
+  ]
+ },
+ "rippling": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rippling",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "rivian": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rivian",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "robinhood": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Robinhood",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "roblox": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Roblox",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "roche": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Roche",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "rokt": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rokt",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "roku": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Roku",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "rubrik": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Rubrik",
+  "sectors": [
+   "Cybersecurity",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "rupeek": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Rupeek",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "salesforce": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Salesforce",
+  "sectors": [
+   "Big Tech",
+   "Enterprise SaaS"
+  ]
+ },
+ "sambanova": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "SambaNova Systems",
+  "sectors": [
+   "AI / ML",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "samsara": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Samsara",
+  "sectors": [
+   "Enterprise SaaS",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "samsung": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Samsung",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "sap": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "SAP",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "scale-ai": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Scale AI",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "scaler": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Scaler",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "schlumberger": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Schlumberger (SLB)",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "schneider-electric": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Schneider Electric",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "schrodinger": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Schrodinger",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "sentry": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Sentry",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "servicenow": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ServiceNow",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "sharechat": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "ShareChat",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "shift-technology": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Shift Technology",
+  "sectors": [
+   "Insurance / Insurtech",
+   "AI / ML"
+  ]
+ },
+ "shipsy": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Shipsy",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Enterprise SaaS"
+  ]
+ },
+ "shopback": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "ShopBack",
+  "sectors": [
+   "E-commerce & Retail",
+   "Fintech & Payments"
+  ]
+ },
+ "shopee": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Shopee",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "shopify": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Shopify",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "shopup": {
+  "confidence": "verified",
+  "hq": "APAC",
+  "name": "ShopUp",
+  "sectors": [
+   "E-commerce & Retail",
+   "Logistics & Supply Chain",
+   "Fintech & Payments"
+  ]
+ },
+ "siemens": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Siemens",
+  "sectors": [
+   "Aerospace, Defense & Industrial",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "sig": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Susquehanna International Group (SIG)",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "sigmoid": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Sigmoid",
+  "sectors": [
+   "IT Services & Consulting",
+   "AI / ML"
+  ]
+ },
+ "singlestore": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "SingleStore",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "sixt": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Sixt",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Travel & Hospitality"
+  ]
+ },
+ "slice": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Slice",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "smartnews": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "SmartNews",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "smartsheet": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Smartsheet",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "snap": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Snap Inc.",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "snapchat": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Snapchat",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "snapdeal": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Snapdeal",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "snowflake": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Snowflake",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "societe-generale": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Societe Generale",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "sofi": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "SoFi",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "softwire": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Softwire",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "sonatus": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Sonatus",
+  "sectors": [
+   "Mobility & Autonomous",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "sony": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Sony",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Gaming",
+   "Social, Media & Streaming"
+  ]
+ },
+ "soti": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "SOTI",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "soundhound": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "SoundHound AI",
+  "sectors": [
+   "AI / ML"
+  ]
+ },
+ "spacex": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "SpaceX",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "spinny": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Spinny",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Mobility & Autonomous"
+  ]
+ },
+ "splunk": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Splunk",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "spotify": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Spotify",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "sprinklr": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Sprinklr",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech"
+  ]
+ },
+ "square": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Square",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "squarepoint-capital": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Squarepoint Capital",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "squarespace": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Squarespace",
+  "sectors": [
+   "Enterprise SaaS",
+   "E-commerce & Retail"
+  ]
+ },
+ "src": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "SRC, Inc.",
+  "sectors": [
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "stackadapt": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "StackAdapt",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "stackline": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Stackline",
+  "sectors": [
+   "Adtech & Martech",
+   "E-commerce & Retail"
+  ]
+ },
+ "starbucks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Starbucks",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "state-farm": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "State Farm",
+  "sectors": [
+   "Insurance / Insurtech"
+  ]
+ },
+ "strava": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Strava",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "stripe": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Stripe",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "sumo-logic": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Sumo Logic",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Cybersecurity"
+  ]
+ },
+ "swiggy": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Swiggy",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "syfe": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Syfe",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "symantec": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Symantec",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "synopsys": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Synopsys",
+  "sectors": [
+   "Semiconductors & Hardware",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "ta-digital": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "TA Digital",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "tableau": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tableau",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "tanium": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tanium",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "target": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Target",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "tcs": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Tata Consultancy Services (TCS)",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "tech-mahindra": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Tech Mahindra",
+  "sectors": [
+   "IT Services & Consulting",
+   "Telecom & Networking"
+  ]
+ },
+ "techolution": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Techolution",
+  "sectors": [
+   "IT Services & Consulting",
+   "AI / ML"
+  ]
+ },
+ "tejas-networks": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Tejas Networks",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "tekion": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tekion",
+  "sectors": [
+   "Enterprise SaaS",
+   "Mobility & Autonomous"
+  ]
+ },
+ "tencent": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Tencent",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Gaming",
+   "Big Tech"
+  ]
+ },
+ "teradata": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Teradata",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "tesco": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Tesco",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "tesla": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tesla",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "texas-instruments": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Texas Instruments",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "the-trade-desk": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "The Trade Desk",
+  "sectors": [
+   "Adtech & Martech"
+  ]
+ },
+ "thomson-reuters": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Thomson Reuters",
+  "sectors": [
+   "Enterprise SaaS",
+   "Social, Media & Streaming"
+  ]
+ },
+ "thoughtspot": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ThoughtSpot",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "thoughtworks": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Thoughtworks",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "thousandeyes": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ThousandEyes",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Telecom & Networking"
+  ]
+ },
+ "thumbtack": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Thumbtack",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "tiaa": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "TIAA",
+  "sectors": [
+   "Banking & Investment",
+   "Insurance / Insurtech"
+  ]
+ },
+ "tiger-analytics": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tiger Analytics",
+  "sectors": [
+   "IT Services & Consulting",
+   "AI / ML"
+  ]
+ },
+ "tiktok": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "TikTok",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Big Tech"
+  ]
+ },
+ "tinder": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tinder",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "tinkoff": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Tinkoff",
+  "sectors": [
+   "Banking & Investment",
+   "Fintech & Payments"
+  ]
+ },
+ "toast": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Toast",
+  "sectors": [
+   "Fintech & Payments",
+   "Enterprise SaaS"
+  ]
+ },
+ "tokopedia": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Tokopedia",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "tomtom": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "TomTom",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "toptal": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Toptal",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "tower-research-capital": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tower Research Capital",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "toyota": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Toyota",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "tracxn": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Tracxn",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "traveloka": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Traveloka",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "trend-micro": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Trend Micro",
+  "sectors": [
+   "Cybersecurity"
+  ]
+ },
+ "trexquant": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Trexquant",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "trilogy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Trilogy",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "tripactions": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "TripActions (Navan)",
+  "sectors": [
+   "Travel & Hospitality",
+   "Fintech & Payments"
+  ]
+ },
+ "tripadvisor": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Tripadvisor",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "triplebyte": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Triplebyte",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "turing": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Turing",
+  "sectors": [
+   "Marketplaces & Gig",
+   "AI / ML"
+  ]
+ },
+ "turo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Turo",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Mobility & Autonomous"
+  ]
+ },
+ "turvo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Turvo",
+  "sectors": [
+   "Logistics & Supply Chain",
+   "Enterprise SaaS"
+  ]
+ },
+ "tusimple": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "TuSimple",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "twilio": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Twilio",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "twitch": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Twitch",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Gaming"
+  ]
+ },
+ "twitter": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Twitter (X)",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "two-sigma": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Two Sigma",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "uber": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Uber",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Mobility & Autonomous"
+  ]
+ },
+ "ubisoft": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Ubisoft",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "ubs": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "UBS",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "udemy": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Udemy",
+  "sectors": [
+   "Edtech"
+  ]
+ },
+ "uipath": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "UiPath",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "ukg": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "UKG",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "unbxd": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Unbxd",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "unifyapps": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "UnifyApps",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "unity": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Unity",
+  "sectors": [
+   "Gaming",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "unstop": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "Unstop",
+  "sectors": [
+   "Edtech",
+   "Marketplaces & Gig"
+  ]
+ },
+ "upstart": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Upstart",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "urban-company": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Urban Company",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "usaa": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "USAA",
+  "sectors": [
+   "Banking & Investment",
+   "Insurance / Insurtech"
+  ]
+ },
+ "ust": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "UST",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "valve": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Valve",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "vanguard": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Vanguard",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "veeva-systems": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Veeva Systems",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Enterprise SaaS"
+  ]
+ },
+ "verily": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Verily",
+  "sectors": [
+   "Healthcare & Biotech"
+  ]
+ },
+ "veritas": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Veritas Technologies",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "verizon": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Verizon",
+  "sectors": [
+   "Telecom & Networking"
+  ]
+ },
+ "verkada": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Verkada",
+  "sectors": [
+   "Cybersecurity",
+   "Semiconductors & Hardware"
+  ]
+ },
+ "viasat": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Viasat",
+  "sectors": [
+   "Telecom & Networking",
+   "Aerospace, Defense & Industrial"
+  ]
+ },
+ "vimeo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Vimeo",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Enterprise SaaS"
+  ]
+ },
+ "virtu-financial": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Virtu Financial",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "virtusa": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Virtusa",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "visa": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Visa",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "vk": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "VK",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "vmware": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "VMware",
+  "sectors": [
+   "Cloud, Infra & Dev Tools",
+   "Enterprise SaaS"
+  ]
+ },
+ "walmart-labs": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Walmart Labs",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "warnermedia": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "WarnerMedia",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "watchguard": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "WatchGuard",
+  "sectors": [
+   "Cybersecurity",
+   "Telecom & Networking"
+  ]
+ },
+ "wayfair": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Wayfair",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "waymo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Waymo",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "wayve": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Wayve",
+  "sectors": [
+   "Mobility & Autonomous",
+   "AI / ML"
+  ]
+ },
+ "wealthfront": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Wealthfront",
+  "sectors": [
+   "Fintech & Payments",
+   "Banking & Investment"
+  ]
+ },
+ "wells-fargo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Wells Fargo",
+  "sectors": [
+   "Banking & Investment"
+  ]
+ },
+ "weride": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "WeRide",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "western-digital": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Western Digital",
+  "sectors": [
+   "Semiconductors & Hardware"
+  ]
+ },
+ "whatfix": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Whatfix",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "whatnot": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Whatnot",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "winzo": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "WinZO",
+  "sectors": [
+   "Gaming"
+  ]
+ },
+ "wipro": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Wipro",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "wise": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Wise",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "wish": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Wish",
+  "sectors": [
+   "E-commerce & Retail",
+   "Marketplaces & Gig"
+  ]
+ },
+ "wissen-technology": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Wissen Technology",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "wix": {
+  "confidence": "high",
+  "hq": "Other",
+  "name": "Wix",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "workday": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Workday",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "works-applications": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Works Applications",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "worldquant": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "WorldQuant",
+  "sectors": [
+   "Quant / HFT / Trading"
+  ]
+ },
+ "woven-by-toyota": {
+  "confidence": "high",
+  "hq": "APAC",
+  "name": "Woven by Toyota",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "x": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "X (formerly Twitter)",
+  "sectors": [
+   "Social, Media & Streaming"
+  ]
+ },
+ "xing": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "XING",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Marketplaces & Gig"
+  ]
+ },
+ "yahoo": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Yahoo",
+  "sectors": [
+   "Social, Media & Streaming",
+   "Adtech & Martech"
+  ]
+ },
+ "yandex": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Yandex",
+  "sectors": [
+   "Big Tech",
+   "Mobility & Autonomous"
+  ]
+ },
+ "yatra": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Yatra",
+  "sectors": [
+   "Travel & Hospitality"
+  ]
+ },
+ "yelp": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Yelp",
+  "sectors": [
+   "Marketplaces & Gig",
+   "Social, Media & Streaming"
+  ]
+ },
+ "yext": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Yext",
+  "sectors": [
+   "Enterprise SaaS",
+   "Adtech & Martech"
+  ]
+ },
+ "yugabyte": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Yugabyte",
+  "sectors": [
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "zalando": {
+  "confidence": "high",
+  "hq": "Europe",
+  "name": "Zalando",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "zappos": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zappos",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "zemoso": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Zemoso Technologies",
+  "sectors": [
+   "IT Services & Consulting"
+  ]
+ },
+ "zendesk": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zendesk",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "zenefits": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zenefits",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "zepto": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Zepto",
+  "sectors": [
+   "E-commerce & Retail",
+   "Logistics & Supply Chain"
+  ]
+ },
+ "zeta": {
+  "confidence": "low",
+  "hq": "India",
+  "name": "Zeta",
+  "sectors": [
+   "Fintech & Payments"
+  ]
+ },
+ "zillow": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zillow",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "zip": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Zip",
+  "sectors": [
+   "Enterprise SaaS",
+   "AI / ML"
+  ]
+ },
+ "ziprecruiter": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ZipRecruiter",
+  "sectors": [
+   "Marketplaces & Gig"
+  ]
+ },
+ "zluri": {
+  "confidence": "verified",
+  "hq": "US",
+  "name": "Zluri",
+  "sectors": [
+   "Enterprise SaaS",
+   "Cybersecurity"
+  ]
+ },
+ "zocdoc": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zocdoc",
+  "sectors": [
+   "Healthcare & Biotech",
+   "Marketplaces & Gig"
+  ]
+ },
+ "zoho": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Zoho",
+  "sectors": [
+   "Enterprise SaaS"
+  ]
+ },
+ "zomato": {
+  "confidence": "high",
+  "hq": "India",
+  "name": "Zomato",
+  "sectors": [
+   "Marketplaces & Gig",
+   "E-commerce & Retail"
+  ]
+ },
+ "zoom": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zoom",
+  "sectors": [
+   "Enterprise SaaS",
+   "Telecom & Networking"
+  ]
+ },
+ "zoox": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zoox",
+  "sectors": [
+   "Mobility & Autonomous"
+  ]
+ },
+ "zopsmart": {
+  "confidence": "verified",
+  "hq": "India",
+  "name": "ZopSmart",
+  "sectors": [
+   "E-commerce & Retail",
+   "Enterprise SaaS"
+  ]
+ },
+ "zs-associates": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "ZS Associates",
+  "sectors": [
+   "IT Services & Consulting",
+   "Healthcare & Biotech"
+  ]
+ },
+ "zscaler": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zscaler",
+  "sectors": [
+   "Cybersecurity",
+   "Cloud, Infra & Dev Tools"
+  ]
+ },
+ "zulily": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zulily",
+  "sectors": [
+   "E-commerce & Retail"
+  ]
+ },
+ "zynga": {
+  "confidence": "high",
+  "hq": "US",
+  "name": "Zynga",
+  "sectors": [
+   "Gaming"
+  ]
+ }
+}

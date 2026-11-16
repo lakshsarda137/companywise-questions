@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Companywise</title>
+<meta name="description" content="Company-wise LeetCode interview questions, filterable by sector, company, difficulty, topic and recency.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 9 9'%3E%3Cpath d='M0 0h4v4H0zM5 0h4v4H5zM0 5h4v4H0zM5 5h4v4H5z' fill='%23111'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<pre id="ascii" aria-hidden="true"></pre>
+
+<header class="menubar">
+  <span class="logo" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+  <strong class="brand">Companywise</strong>
+  <nav>
+    <a href="#/" data-view="questions">Questions</a>
+    <a href="#/companies" data-view="companies">Companies</a>
+    <a href="#/about" data-view="about">About</a>
+  </nav>
+  <span class="clock" id="updated"></span>
+  <button class="theme" id="theme" title="Toggle light/dark" aria-label="Toggle light/dark theme">◐</button>
+</header>
+
+<main>
+  <section class="window" id="win">
+    <div class="titlebar"><span class="close" aria-hidden="true"></span><span class="title" id="win-title">Questions</span></div>
+
+    <!-- Questions view -->
+    <div id="view-questions">
+      <div class="toolbar">
+        <input id="q" type="search" placeholder="Search questions or #ID   — press /" autocomplete="off" spellcheck="false">
+        <div class="filters" id="filters"></div>
+      </div>
+      <div class="status">
+        <span id="count">Loading…</span>
+        <span id="chips" class="chips"></span>
+      </div>
+      <div class="table" role="table">
+        <div class="thead" role="row" id="thead"></div>
+        <div id="rows" role="rowgroup"></div>
+        <div id="sentinel"></div>
+      </div>
+    </div>
+
+    <!-- Companies view -->
+    <div id="view-companies" hidden>
+      <div class="toolbar">
+        <input id="cq" type="search" placeholder="Find a company…" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="status"><span id="ccount"></span><span class="muted">Click a company to see its questions</span></div>
+      <div class="table">
+        <div class="thead crow"><span>Name</span><span>Sectors</span><span>HQ</span><span class="num">Questions</span><span class="num">Last 30d</span></div>
+        <div id="crows"></div>
+      </div>
+    </div>
+
+    <!-- About view -->
+    <div id="view-about" hidden>
+      <div class="about" id="about"></div>
+    </div>
+  </section>
+</main>
+
+<div id="pop" class="pop" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
