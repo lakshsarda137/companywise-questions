@@ -42,7 +42,7 @@ ALIAS = {
     "jtg": "josh-technology", "machinezone": "machine-zone", "medianet": "media-net",
     "otterai": "otter-ai", "ponyai": "pony-ai", "pure": "pure-storage", "sumologic": "sumo-logic",
     "tower-research": "tower-research-capital", "veeva": "veeva-systems", "virtu": "virtu-financial",
-    "wissen": "wissen-technology", "zeta-suite": "zeta",
+    "wissen": "wissen-technology", "zeta-suite": "zeta", "snap": "snapchat",
 }
 
 # Recency buckets, most recent first. "all" = listed only in the all-time file.

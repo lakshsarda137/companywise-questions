@@ -4634,18 +4634,10 @@
    "Enterprise SaaS"
   ]
  },
- "snap": {
-  "confidence": "high",
-  "hq": "US",
-  "name": "Snap Inc.",
-  "sectors": [
-   "Social, Media & Streaming"
-  ]
- },
  "snapchat": {
   "confidence": "high",
   "hq": "US",
-  "name": "Snapchat",
+  "name": "Snap (Snapchat)",
   "sectors": [
    "Social, Media & Streaming"
   ]
