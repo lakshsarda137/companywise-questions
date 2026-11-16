@@ -48,13 +48,18 @@ jobs:
             echo "::warning::$(wc -l < data/unclassified.txt) new companies have no sector yet. See data/unclassified.txt"
           fi
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      # Pages deploy runs only when the repo variable DEPLOY_PAGES is 'true'
+      # (Pages needs a public repo, or GitHub Pro for a private one).
+      - if: vars.DEPLOY_PAGES == 'true'
+        uses: actions/configure-pages@v5
+      - if: vars.DEPLOY_PAGES == 'true'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
   deploy:
     needs: build
+    if: vars.DEPLOY_PAGES == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
